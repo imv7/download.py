@@ -8,7 +8,8 @@ import requests
     'SUBMIT.x': '10',
     'SUBMIT.y': '8'
     
-}```
+}
+```
 
 #### Those URLs were collected from the same above HTTP POST for authentication and HTTP GET for download
 #### .Session() keeps the cookies sent thru connection
