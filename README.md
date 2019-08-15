@@ -1,6 +1,6 @@
 ```
 import requests   
-
+1
 ```
 #### Those paylog were collected from F12 Firefox > Network > Sniffing the params from HTTP POST sent
 ```payload = {
