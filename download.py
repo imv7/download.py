@@ -4,7 +4,7 @@ import requests
 # Those paylog were collected from F12 Firefox > Network > Sniffing the params from HTTP POST sent
 payload = {
     'userid': 'ID@a.com',
-    'password': 'Passwd',
+    'password': 'jjPasswd',
     'SUBMIT.x': '10',
     'SUBMIT.y': '8'
     
