@@ -21,3 +21,4 @@ with requests.Session() as s:
     r = s.get('https://thegdpr.email/URI?URI&URI=File')
     print (r.text)
 ```
+i
