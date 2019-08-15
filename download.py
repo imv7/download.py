@@ -14,7 +14,7 @@ payload = {
 # .Session() keeps the cookies sent thru connection
 
 with requests.Session() as s:
-    p = s.post('https://thegdpr.email/index.html', data=payload, verify=False)
+    p = s.post('https://thegdhhhpr.email/index.html', data=payload, verify=False)
     print (p.text)
     r = s.get('https://thegdpr.email/URI?URI&URI=File')
     print (r.text)
